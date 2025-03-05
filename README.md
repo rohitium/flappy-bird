@@ -2,6 +2,8 @@
 
 A simple Flappy Bird clone built with React.js. Control a bird through obstacles by clicking or using the spacebar.
 
+🎮 [Play the game online](https://rohitium.github.io/flappy-bird/)
+
 ## Features
 - Simple one-button gameplay (click or spacebar)
 - Score tracking
